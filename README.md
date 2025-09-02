@@ -23,7 +23,7 @@ I am a highly motivated Mechanical Engineer with a B.Sc. in Mechanical Engineeri
 ---
 
 ## 🌍 Volunteer & Community  
-- **	Senior Executive, Content Management (SelDev Academy)**:       - Monitored & Regulated content flow in the social media channels  🗺️
+- **Senior Executive, Content Management (SelDev Academy)**:       - Monitored & Regulated content flow in the social media channels  🗺️
 - **LOOP - Control Engineering Club**:            - Organized a workshop on “Programming & Introduction to  Robotics for 100 participants 🤖
 - **Volunteer at TRY**: Participated in social services across various districts in Bangladesh 🌐
 - **Volunteer at Dream**:Participated in collecting blood and distributed for emergency 🩸 
